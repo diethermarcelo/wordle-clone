@@ -1,7 +1,7 @@
 # wordle-clone
 - A website clone for web-based word game
 
-## preview:
+## Preview:
 - https://drive.google.com/file/d/13W486Numd46F-D0DKTXKhRw29DXNW8XC/view?usp=sharing
 
 # React + TypeScript + Vite
