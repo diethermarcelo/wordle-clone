@@ -2,7 +2,7 @@
 - A website clone for web-based word game
 
 ## Preview:
-- https://www.youtube.com/watch?v=xDR1pWSotT8&list=PL_w4T26-oCCdzpqFGJbKlohPQixYSfj1p
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xDR1pWSotT8/0.jpg)](http://www.youtube.com/watch?v=xDR1pWSotT8 "Video Title")
 
 # React + TypeScript + Vite
 
