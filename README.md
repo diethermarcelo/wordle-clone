@@ -2,7 +2,7 @@
 - A website clone for web-based word game
 
 ## Preview:
-- https://drive.google.com/file/d/13W486Numd46F-D0DKTXKhRw29DXNW8XC/view?usp=sharing
+- https://www.youtube.com/watch?v=xDR1pWSotT8&list=PL_w4T26-oCCdzpqFGJbKlohPQixYSfj1p
 
 # React + TypeScript + Vite
 
